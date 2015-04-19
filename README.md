@@ -1,2 +1,2 @@
 #ConcurrentObs
-Methods for analyzing concurrent observations
+Analyses of concurrent telemetry observations
